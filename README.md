@@ -1,4 +1,5 @@
-$ Phishing para captura de senhas do Facebook
+|$ PHISGING PARA CAPTURA DE SENHAS DO FACEBOOK |
+|______________________________________________|
 
 $$$ Ferramentas
 
