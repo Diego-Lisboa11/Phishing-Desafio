@@ -16,4 +16,6 @@
 - Mudar a URL da máscara: ``` S/N ```
 
 ### Resutados
-https://github.com/Diego-Lisboa11/Phishing-Desafio/issues/1#issue-2738909781
+
+![capturasenha](https://github.com/user-attachments/assets/683c6732-6c72-40db-a56b-d5eed0b88028)
+
