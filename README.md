@@ -1,5 +1,5 @@
-|$ PHISGING PARA CAPTURA DE SENHAS DO FACEBOOK |
-|______________________________________________|
+| $ PHISGING PARA CAPTURA DE SENHAS DO FACEBOOK |
+
 
 $$$ Ferramentas
 
