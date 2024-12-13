@@ -1,21 +1,21 @@
-# Phishing para captura de senhas do Facebook
+! Phishing para captura de senhas do Facebook
 
-### Ferramentas
+!!! Ferramentas
 
 - Kali Linux
 - Zphisher
 
-### Configurando o Phishing no Kali Linux
+!!! Configurando o Phishing no Kali Linux
 
-- Entrando no diretório: ``` cd zphisher ```
-- Iniciando o zphisher: ``` sudo bash zphisher.sh ```
-- Selecionando o ataque: ``` 1 a 33 ```
-- Selecionando uma opção: ``` Traditional Login Page ```
-- Selecionando um serviço de encaminhamento de porta: ```Cloudfared ```
-- Porta Personalinada: ``` N ```
-- Mudar a URL da máscara: ``` S/N ```
+1- Entrando no diretório: ``` cd zphisher ```
+2- Iniciando o zphisher: ``` sudo bash zphisher.sh ```
+3- Selecionando o ataque: ``` 1 a 33 ```
+4- Selecionando uma opção: ``` Traditional Login Page ```
+5- Selecionando um serviço de encaminhamento de porta: ```Cloudfared ```
+6- Porta Personalinada: ``` N ```
+7- Mudar a URL da máscara: ``` S/N ```
 
-### Resutados
+!!! Resutados
 
 ![capturasenha](https://github.com/user-attachments/assets/683c6732-6c72-40db-a56b-d5eed0b88028)
 
